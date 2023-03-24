@@ -29,23 +29,23 @@ STEP 4: Remove the outliers.
 STEP 5: Plot the datas using Box Plot.
 
 # CODE
-(1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe.
+# (1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe.
 
 ![](/Outlier%201.png)
 
 ![](/Outlier%202.png)
 
-(3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
+# (3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
 
 ![](/Outlier%203.png)
 
-(4)(i) For the data set height_weight.csv detect weight outliers using IQR method.
+# (4)(i) For the data set height_weight.csv detect weight outliers using IQR method.
 
 ![](/Outlier%204.png)
 
 ![](/Outlier%205.png)
 
-(4)(ii) For the data set height_weight.csv detect height outliers using IQR method.
+# (4)(ii) For the data set height_weight.csv detect height outliers using IQR method.
 
 ![](/Outlier%206.png)
 
